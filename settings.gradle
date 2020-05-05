@@ -1,0 +1,2 @@
+rootProject.name='Modo Kiosk'
+include ':app'
